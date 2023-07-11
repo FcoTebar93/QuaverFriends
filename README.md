@@ -20,12 +20,11 @@ Sigue estos pasos para instalar y ejecutar QuaverFriends en tu máquina local:
 
 1. Clona este repositorio en tu máquina:
 git clone https://github.com/tu-usuario/quaverfriends.git
-
-Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
 - cd quaverfriends
-Instala las dependencias necesarias:
+3. Instala las dependencias necesarias:
 - npm install
-Instalación directa en el móvil mediante USB o en un emulador:
+4. Instalación directa en el móvil mediante USB o en un emulador:
 - npx react-native run-android
 
 Licencia
