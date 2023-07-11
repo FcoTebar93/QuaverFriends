@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "860924481786",
+    "project_id": "quaverfriends",
+    "storage_bucket": "quaverfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860924481786:android:726deae310165b31333943",
+        "android_client_info": {
+          "package_name": "com.quaverfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860924481786-8611rnpdaqtnp21jdecnka7iarcsui9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjYAIVtz6KGGLHmoi9wnTsQm2hc13tqjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860924481786-8611rnpdaqtnp21jdecnka7iarcsui9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860924481786-0ki68gdunafief5ect9ntqaqh45tgpg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quaverfriends"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
