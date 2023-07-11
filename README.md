@@ -40,4 +40,4 @@ Sigue estos pasos para instalar y ejecutar QuaverFriends en tu máquina local:
 - npx react-native run-android
 
 ## Licencia
-QuaverFriends se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para obtener más información.
+QuaverFriends se distribuye bajo la licencia MIT.
