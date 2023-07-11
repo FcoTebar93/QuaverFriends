@@ -31,7 +31,7 @@ QuaverFriends es una aplicación social para entusiastas de la música y músico
 Sigue estos pasos para instalar y ejecutar QuaverFriends en tu máquina local:
 
 1. Clona este repositorio en tu máquina:
-- git clone https://github.com/tu-usuario/quaverfriends.git
+- git clone https://github.com/FcoTebar93/quaverfriends.git
 2. Navega al directorio del proyecto:
 - cd quaverfriends
 3. Instala las dependencias necesarias:
