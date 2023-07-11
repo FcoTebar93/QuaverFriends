@@ -12,19 +12,19 @@ QuaverFriends es una aplicación social para entusiastas de la música y músico
 
 ## Capturas de pantalla
 
-![Onboarding](screenshots/onboarding1.jpg)
+<img src="screenshots/onboarding1.jpg" width="300" alt="Onboarding">
 
-![Home](screenshots/posts.jpg)
+<img src="screenshots/posts.jpg" width="300" alt="Home">
 
-![CrearPost](screenshots/crearpost.jpg)
+<img src="screenshots/crearpost.jpg" width="300" alt="Crear Post">
 
-![Chat](screenshots/chat.jpg)
+<img src="screenshots/chat.jpg" width="300" alt="Chat">
 
-![Profile](screenshots/perfilpropio.jpg)
+<img src="screenshots/perfilpropio.jpg" width="300" alt="Perfil Propio">
 
-![OtherProfile](screenshots/perfiltercero.jpg)
+<img src="screenshots/perfiltercero.jpg" width="300" alt="Otro Perfil">
 
-![EditProfile](screenshots/editarperfil.jpg)
+<img src="screenshots/editarperfil.jpg" width="300" alt="Editar Perfil">
 
 ## Instalación
 
