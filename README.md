@@ -19,7 +19,7 @@ _Inserta aquí algunas capturas de pantalla de la aplicación para mostrar su ap
 Sigue estos pasos para instalar y ejecutar QuaverFriends en tu máquina local:
 
 1. Clona este repositorio en tu máquina:
-git clone https://github.com/tu-usuario/quaverfriends.git
+- git clone https://github.com/tu-usuario/quaverfriends.git
 2. Navega al directorio del proyecto:
 - cd quaverfriends
 3. Instala las dependencias necesarias:
